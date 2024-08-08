@@ -26,7 +26,7 @@ A specialized dashboard for imformed descision making based on TOSCII gathered d
 
 ## Contact
 
-For any inquiries or feedback, please contact me at [higbioko@gmail.com](mailto:higbioko@gmail.com).
+For any inquiries or feedback, please contact me at [higboko@gmail.com](mailto:higboko@gmail.com).
 
 ## License
 
